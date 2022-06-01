@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Thanosfuture
-- 👀 I’m interested in python project
+- 👀 I’m interested in Python and Data analyst project
 - 🌱 I’m currently learning python and AI
 -    I have no idea how this website works, happy to get help from anyone.Thanks
 
